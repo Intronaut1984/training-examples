@@ -1,0 +1,5 @@
+num= input('Type a number')
+dob = (int(num)*2)
+trip= (int(num)*3)
+rq= (int(num)**2)
+print ('O dobro de {} é {}, o triplo é {} e a RQ é {}'.format(num, dob, trip, rq))

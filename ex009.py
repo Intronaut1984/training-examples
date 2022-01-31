@@ -1,0 +1,5 @@
+num= int(input('type a number to multiply'))
+a= (num*1)
+b= (num*2)
+c= (num*3)
+print('{}*1={}, {}*2={}, {}*3={}'.format(num, a, num, b, num, c))

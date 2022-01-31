@@ -1,0 +1,6 @@
+say= input('Type Something')
+print(say.isalnum())
+print(say.isalpha())
+print(say.isascii())
+print(say.capitalize())
+print('Thank You!!')
